@@ -1,0 +1,154 @@
+{
+  "period": "Dec 2010 - Nov 2011",
+  "revenue_total": 9414187.6,
+  "orders_total": 18883,
+  "avg_order_value": 498.55,
+  "customers_with_id": 4284,
+  "revenue_share_with_customer_id": 0.8505,
+  "best_month": "2011-11",
+  "best_month_revenue": 1441616.38,
+  "weakest_month": "2011-02",
+  "weakest_month_revenue": 503896.3,
+  "best_vs_weakest_ratio": 2.86,
+  "peak_sep_nov_revenue": 3532477.72,
+  "peak_sep_nov_share": 0.3752,
+  "xmas_share_by_month": {
+    "2010-12": 0.0572,
+    "2011-01": 0.0038,
+    "2011-02": 0.0015,
+    "2011-03": 0.0013,
+    "2011-04": 0.0018,
+    "2011-05": 0.0023,
+    "2011-06": 0.0053,
+    "2011-07": 0.0169,
+    "2011-08": 0.0372,
+    "2011-09": 0.0851,
+    "2011-10": 0.1019,
+    "2011-11": 0.1213
+  },
+  "returning_share_jan_nov": 0.7995,
+  "returning_share_nov": 0.8821,
+  "top10pct_customers": 428,
+  "top10pct_customer_share": 0.6001,
+  "one_time_customer_share": 0.3611,
+  "dec_cohort_size": 883,
+  "dec_cohort_active_nov": 444,
+  "products_total": 3793,
+  "top20pct_products": 758,
+  "top20pct_product_share": 0.7791,
+  "uk_share": 0.8451,
+  "monthly": {
+    "2010-12": {
+      "revenue": 764669.72,
+      "orders": 1543,
+      "avg_order": 495.57
+    },
+    "2011-01": {
+      "revenue": 562585.44,
+      "orders": 1075,
+      "avg_order": 523.34
+    },
+    "2011-02": {
+      "revenue": 503896.3,
+      "orders": 1090,
+      "avg_order": 462.29
+    },
+    "2011-03": {
+      "revenue": 679984.28,
+      "orders": 1434,
+      "avg_order": 474.19
+    },
+    "2011-04": {
+      "revenue": 511077.16,
+      "orders": 1229,
+      "avg_order": 415.85
+    },
+    "2011-05": {
+      "revenue": 732895.98,
+      "orders": 1661,
+      "avg_order": 441.24
+    },
+    "2011-06": {
+      "revenue": 728477.96,
+      "orders": 1517,
+      "avg_order": 480.21
+    },
+    "2011-07": {
+      "revenue": 678889.33,
+      "orders": 1447,
+      "avg_order": 469.17
+    },
+    "2011-08": {
+      "revenue": 719233.71,
+      "orders": 1336,
+      "avg_order": 538.35
+    },
+    "2011-09": {
+      "revenue": 1017675.46,
+      "orders": 1812,
+      "avg_order": 561.63
+    },
+    "2011-10": {
+      "revenue": 1073185.88,
+      "orders": 1993,
+      "avg_order": 538.48
+    },
+    "2011-11": {
+      "revenue": 1441616.38,
+      "orders": 2746,
+      "avg_order": 524.99
+    }
+  },
+  "top_products": [
+    {
+      "stock_code": "22423",
+      "name": "REGENCY CAKESTAND 3 TIER",
+      "revenue": 164260.77
+    },
+    {
+      "stock_code": "47566",
+      "name": "PARTY BUNTING",
+      "revenue": 97692.0
+    },
+    {
+      "stock_code": "85123A",
+      "name": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "revenue": 97555.9
+    },
+    {
+      "stock_code": "85099B",
+      "name": "JUMBO BAG RED RETROSPOT",
+      "revenue": 90439.73
+    },
+    {
+      "stock_code": "23084",
+      "name": "RABBIT NIGHT LIGHT",
+      "revenue": 57179.17
+    },
+    {
+      "stock_code": "22086",
+      "name": "PAPER CHAIN KIT 50'S CHRISTMAS",
+      "revenue": 56967.18
+    },
+    {
+      "stock_code": "84879",
+      "name": "ASSORTED COLOUR BIRD ORNAMENT",
+      "revenue": 56715.87
+    },
+    {
+      "stock_code": "79321",
+      "name": "CHILLI LIGHTS",
+      "revenue": 51121.87
+    },
+    {
+      "stock_code": "22502",
+      "name": "PICNIC BASKET WICKER SMALL",
+      "revenue": 51064.17
+    },
+    {
+      "stock_code": "22197",
+      "name": "POPCORN HOLDER",
+      "revenue": 45747.97
+    }
+  ]
+}
